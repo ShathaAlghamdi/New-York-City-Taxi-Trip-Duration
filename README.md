@@ -40,5 +40,5 @@ The dataset is based on the 2016 NYC Yellow Cab trip record data made available 
    - numpy
    - seaborn
    - plotly
-   - sklearn 
+   - sklearn
 
