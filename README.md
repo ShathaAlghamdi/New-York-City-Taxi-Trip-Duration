@@ -16,7 +16,7 @@ The dataset is based on the 2016 NYC Yellow Cab trip record data made available 
 - **trip_duration:** duration of the trip in seconds
 
 ### Dataset sourec
-![Kaggle](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
+[Kaggle](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
 
 ## MVP Goal 
 1. which days has the highest number of passengers? Or in which hour?
