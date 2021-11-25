@@ -3,7 +3,7 @@
 The goal of this statistical analysis is to help us understand the relationship between trip duration and other features in the dataset that affect the trip duration.
 
 ## Business Problem:
-Predict of the trip duration time depend on specific features in the dataset and some other doesn't exist in the dataset.
+Predect the trip duration time that depends on specific features extracted from the dataset.
 ## Project Management Approach:
  - Scrum
  
@@ -70,6 +70,6 @@ from Kaggle website [[Kaggle]](https://www.kaggle.com/c/nyc-taxi-trip-duration/d
 ## Team Members
  - Shatha Alghamdi | Leader
  - Elham Alzahrani
- - AYAD ALHARBI
+ - Ayad ALHarbi
  - Shaima Alzahrani
 
