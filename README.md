@@ -63,7 +63,7 @@ from Kaggle website [[Kaggle]](https://www.kaggle.com/c/nyc-taxi-trip-duration/d
    
 ## MVP goals:
 1. Find out what factors affect on the trip duration.
-2. We want to know which nihboorood have alot of trafic.
+2. We want to know which neighborhood have alot of trafic.
 3. Find how many trip per hour we can reach in one day.
 4. We want to see if there is a specific day that have alot of trafic.
 
