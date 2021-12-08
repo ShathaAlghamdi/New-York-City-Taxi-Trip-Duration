@@ -37,8 +37,7 @@ from Kaggle website [[Kaggle]](https://www.kaggle.com/c/nyc-taxi-trip-duration/d
 8. Are there specific locations with long trip duration? 
 
 ## Algorithms:
-- Linear Regression
-- Polynomial Regression
+- Arima Model
 
 ## Tools:
 ### Softwares:
@@ -68,8 +67,8 @@ from Kaggle website [[Kaggle]](https://www.kaggle.com/c/nyc-taxi-trip-duration/d
 4. We want to see if there is a specific day that have alot of trafic.
 
 ## Team Members
- - Shatha Alghamdi | Leader
- - [[Elham Alzahrani]](https://github.com/infoielham)
- - [[Ayad ALHarbi]](https://github.com/AYAD2030)
- - [[Shaima Alzahrani]](https://github.com/shaimaalabedi)
+ - [@Shatha Alghamdi](https://github.com/infoielham) | Leader
+ - [@Elham Alzahrani](https://github.com/infoielham)
+ - [@Ayad ALHarbi](https://github.com/AYAD2030)
+ - [@Shaima Alzahrani](https://github.com/shaimaalabedi)
 
