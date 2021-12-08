@@ -27,14 +27,14 @@ Predect the trip duration time that depends on specific features extracted from 
 from Kaggle website [[Kaggle]](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
 
 ## Questions:
-1. which days has the highest number of passengers? Or in which hour?
-2. What is the relationship between the location and the trip duration?
-3. which days contain the Highest time duration? (Days of traffic!!)
-4. In which place was the largest number of passengers?
-5. Is the duration time of the trip affect the number of passengers per day?
-6. Is the passenger number affect the trip duration?
-7. What’s the number of trips per hour in each day?
-8. Are there specific locations with long trip duration? 
+ 1. Trip Duration per Hour and per Day
+ 2. Is there a relationship between Distance and Trip Duration?
+ 3. Distance per Hour and per Days
+ 4. Is Vendor Id have relationships with Trip Duration?
+ 5. What Vendor have the most Trips?
+ 6. Which Days has the highest number of Passengers?
+ 7. Features Correlating with Trip Duration 
+
 
 ## Algorithms:
 - Arima Model
