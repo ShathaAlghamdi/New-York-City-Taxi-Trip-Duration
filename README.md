@@ -27,13 +27,15 @@ Predect the trip duration time that depends on specific features extracted from 
 from Kaggle website [[Kaggle]](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
 
 ## Questions:
- 1. Trip Duration per Hour and per Day
- 2. Is there a relationship between Distance and Trip Duration?
- 3. Distance per Hour and per Days
- 4. Is Vendor Id have relationships with Trip Duration?
- 5. What Vendor have the most Trips?
- 6. Which Days has the highest number of Passengers?
- 7. Features Correlating with Trip Duration 
+1. Trip Duration per Hour and per Day
+2. Is there a relationship between Distance and Trip Duration?
+3. Distance per Hour and per Days
+4. Is Vendor Id have relationships with Trip Duration?
+5. What Vendor have the most Trips?
+6. Is the Passenger number affect the Trip Duration?
+7. Which Days has the highest number of Passengers?
+8. What’s the number of Trips per Hour and per Day?
+9. Features Correlating with Trip Duration 
 
 
 ## Algorithms:
@@ -62,9 +64,9 @@ from Kaggle website [[Kaggle]](https://www.kaggle.com/c/nyc-taxi-trip-duration/d
    
 ## MVP goals:
 1. Find out what factors affect on the trip duration.
-2. We want to know which neighborhood have alot of trafic.
-3. Find how many trip per hour we can reach in one day.
-4. We want to see if there is a specific day that have alot of trafic.
+2. Find how many trip per hour we can reach in one day.
+3. We want to see if there is a specific day that have alot of trafic.
+
 
 ## Team Members
  - [@Shatha Alghamdi](https://github.com/infoielham) | Leader
