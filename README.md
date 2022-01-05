@@ -69,7 +69,7 @@ from Kaggle website [[Kaggle]](https://www.kaggle.com/c/nyc-taxi-trip-duration/d
 
 
 ## Team Members
- - [@Shatha Alghamdi](https://github.com/infoielham) | Leader
+ - [@Shatha Alghamdi](https://github.com/infoielham) 
  - [@Elham Alzahrani](https://github.com/infoielham)
  - [@Ayad ALHarbi](https://github.com/AYAD2030)
  - [@Shaima Alzahrani](https://github.com/shaimaalabedi)
